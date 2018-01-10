@@ -1,0 +1,17 @@
+/*.log
+/target
+/*-init.clj
+/checkouts
+/classes
+pom.xml
+*.jar
+*.class
+/resources/public/js/compiled
+out
+.lein-repl-history
+/.lein-*
+/.nrepl-port
+*.iml
+.idea/
+.nrepl-port
+/atfides.iml
