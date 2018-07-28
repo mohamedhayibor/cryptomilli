@@ -1,6 +1,6 @@
-# Why [CryptoMilli](https://www.cryptomilli.com) - rant
+# Why [CryptoMilli](https://mohamedhayibor.github.io/cryptomilli/) - rant
 
-As writing code is fun, I didn't write this down until the site went live: [https://www.cryptomilli.com](https://www.cryptomilli.com)
+As writing code is fun, I didn't write this down until the site went [live](https://mohamedhayibor.github.io/cryptomilli/).
 
 So here we go. There are a bunch of services (websites) / apps where you can buy and hold your coins with sexy dashboards.
 But this imho defeats the purpose of bothering with cryptocurrencies. You should not hold all your coins and rely on a single point of failure. Ideally you should have multiple storages hardware, cold, hot (website, apps,...), where if you lost the funds in one medium the damage is not material.
